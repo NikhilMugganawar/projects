@@ -1,0 +1,6 @@
+flask
+pdfplumber
+spacy
+openai
+python-dotenv
+streamlit
